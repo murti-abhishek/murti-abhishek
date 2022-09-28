@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @murti-abhishek
-- 👀 I’m interested in Mathematical Modeling, Machine Learning, Data Science (and Finance)
-- 🌱 I’m currently learning Bioinformatics
+- 👀 Currently working as a Data Scientist / Bioinformatician at UCSF
+- 🌱 I’m interested in Mathematical Modeling, Machine Learning, Data Science (and Finance)
 
 <!---
 murti-abhishek/murti-abhishek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
