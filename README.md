@@ -2,6 +2,7 @@
 - Currently working as a Data Scientist / Bioinformatician / Computational Biologist at UCSF
 - Developing a package for analyzing scRNAseq data in Julia
 - Also developing an AI scientist for hepatoblastoma
+- Developing a package for analyzing tumor microenvironments in spatial transcriptomics data
 - I’m interested in Mathematical Modeling, Machine Learning, Data Science (and Finance)
 
 <!---
